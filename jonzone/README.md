@@ -1,16 +1,35 @@
-# jonzone
+# The Jon Zone Home Automation Project
 
-A new Flutter project.
+Welcome to "The Jon Zone" Home Automation Project! This project aims to provide a convenient and efficient solution for controlling and automating various household devices. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- [The Jon Zone Home Automation Project](#the-jon-zone-home-automation-project)
+- [Introduction](#introduction)
+  - [Features](#features)
+  - [User Interface](#user-interface)
+  - [Infographic](#infographic)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Introduction
+"The Jon Zone" is a home automation project developed as part of Ionian University coursework. The goal of this project is to enhance convenience, energy efficiency, security, and customization in home automation.
+
+## Features
+- Device Control: Seamlessly control and manage various devices, such as lights, thermostats, media players, and more.
+- Scheduling: Create schedules to automate device actions based on specific time or events.
+- Intelligent Automation: Implement advanced automation techniques to enhance efficiency and user experience.
+- Energy Management: Optimize energy usage and monitor consumption through intelligent controls.
+- Enhanced Security: Integrate security features to protect homes and occupants.
+- Personalized Settings: Tailor the automation system to individual preferences and requirements.
+- Remote Access: Control and monitor devices remotely through mobile or web applications.
+- Intuitive User Interfaces: Provide user-friendly interfaces for easy configuration and control.
+
+
+## User Interface
+
+![](presentation/app.png)
+
+## Infographic
+
+![](presentation/infographic.png)
