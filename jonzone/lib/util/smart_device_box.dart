@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class SmartDeviceBox extends StatelessWidget {
   final String smartDeviceName;
   final String smartDeviceIcon;
